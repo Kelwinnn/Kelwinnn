@@ -1,6 +1,3 @@
-Nome: Kelwin RM: 566348
-Nome: Pedro Rodrigues RM: 564711
-
 <h1 align="left">Hi! My name is Kelwin and I'm a Software Engineer at FIAP 🧑‍💻</h1>
 
 ###
