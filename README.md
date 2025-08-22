@@ -26,14 +26,6 @@
 
 ###
 
-<br>
-
-###
-
-<br>
-
-###
-
 
 <h2 align="center">My stats 📈</h2>
 
