@@ -2,7 +2,19 @@
 
 ###
 
-<h3 align="center">My stats 📈</h3>
+<h3 align="left">Social Media 📱</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kelwinsilvabastos/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">My stats 📈</h3>
 
 ###
 
@@ -13,7 +25,7 @@
 
 ###
 
-<h3 align="center">Languages & Tools 🛠️</h3>
+<h3 align="left">Languages & Tools 🛠️</h3>
 
 ###
 
@@ -43,22 +55,12 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kelwinnn/Kelwinnn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kelwinnn/Kelwinnn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kelwinnn/Kelwinnn/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<h3 align="center">Social Media 📱</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kelwinsilvabastos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
