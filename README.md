@@ -2,7 +2,11 @@
 
 ###
 
-<h3 align="left">Social Media 📱</h3>
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R1Ym5mdTBtc28xYzY4aTN0eWFxaWlwbGN2bWVqZjU5cnJveGV3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
+
+###
+
+<h2 align="left">Social Media 📱</h2>
 
 ###
 
@@ -14,7 +18,7 @@
 
 ###
 
-<h3 align="left">My stats 📈</h3>
+<h2 align="center">My stats 📈</h2>
 
 ###
 
@@ -25,7 +29,7 @@
 
 ###
 
-<h3 align="left">Languages & Tools 🛠️</h3>
+<h2 align="left">Languages & Tools 🛠️</h2>
 
 ###
 
@@ -52,15 +56,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kelwinnn/Kelwinnn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kelwinnn/Kelwinnn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kelwinnn/Kelwinnn/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
