@@ -13,10 +13,6 @@ Nome: Pedro Rodrigues RM: 564711
 
 ###
 
-<br>
-
-###
-
 <h3 align="center">Social Media 📱</h3>
 
 ###
@@ -27,6 +23,10 @@ Nome: Pedro Rodrigues RM: 564711
   </a>
 </div>
 
+
+###
+
+<br>
 
 ###
 
