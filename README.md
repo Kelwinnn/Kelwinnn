@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Kelwin and I'm a Software Engineer at FIAP 🧑‍💻</h2>
+<h1 align="left">Hi! My name is Kelwin and I'm a Software Engineer at FIAP 🧑‍💻</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Social Media 📱</h2>
+<h3 align="left">Social Media 📱</h3>
 
 ###
 
@@ -15,6 +15,18 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<p></p>
+
+###
+
+<p></p>
+
+###
+
+<p></p>
 
 ###
 
