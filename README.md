@@ -1,3 +1,6 @@
+Nome: Kelwin RM: 566348
+Nome: Pedro Rodrigues RM: 564711
+
 <h1 align="left">Hi! My name is Kelwin and I'm a Software Engineer at FIAP 🧑‍💻</h1>
 
 ###
@@ -6,13 +9,17 @@
 
 ###
 
-<h3 align="left">Social Media 📱
-  <div align="right">
+<h3 align="left">Social Media 📱</h3>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/kelwinsilvabastos/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-</h3>
+
+###
 
 <br>
 
