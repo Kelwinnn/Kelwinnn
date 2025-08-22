@@ -27,13 +27,6 @@ Nome: Pedro Rodrigues RM: 564711
   </a>
 </div>
 
-###
-
-<br>
-
-###
-
-<br>
 
 ###
 
