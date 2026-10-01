@@ -19,7 +19,7 @@ Sou estudante de Engenharia de Software na FIAP e atualmente estagiário de supo
 
 Gosto de entender **por que** algo funciona antes de sair copiando solução — por isso boa parte do meu aprendizado é ler código dos outros, quebrar a cabeça com bug chato e só depois ir atrás da explicação. Fora da facul, tô sempre estudando algo a mais: um serviço novo da AWS, um padrão de projeto, boas práticas de segurança.
 
-Objetivo de longo prazo? Virar back-end developer de verdade — e quem sabe atuar fora do Brasil um dia. 🌎
+Objetivo de longo prazo? Virar engenheiro de software de verdade
 
 ---
 
